@@ -31,7 +31,7 @@ describe('demoqa - Text Box Test', () => {
         cy.get(dl.practiceForm.hobbiesCheckbox3).check({force: true});
         cy.get(dl.practiceForm.uploadPictureBtn).attachFile(dc.practiceForm.picture);
         cy.get(dl.practiceForm.currentAddress).type(dc.practiceForm.Address);
-        cy.get(dl.practiceForm.State).click();
+        cy.get(dl.practiceForm.State).click({force: true});
         cy.get(dl.practiceForm.state_cityDropdown).contains(dc.practiceForm.stateNCR).click();
         cy.get(dl.practiceForm.City).click();
         cy.get(dl.practiceForm.state_cityDropdown).contains(dc.practiceForm.stateDelhi).click();

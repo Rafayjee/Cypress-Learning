@@ -1,0 +1,61 @@
+{
+    "DemoQA": {
+        "listClass": ".element-list",
+        "sideMenu": ".menu-list"
+    },
+    "practiceForm": {
+        "firstName": "#firstName",
+        "lastName": "#lastName",
+        "Email": "#userEmail",
+        "genderRadioBtn1": "#gender-radio-1",
+        "genderRadioBtn2": "#gender-radio-2",
+        "genderRadioBtn3": "#gender-radio-3",
+        "mobileNumber": "#userNumber",
+        "DOB": "#dateOfBirthInput",
+        "DOB_monthSelect": ".react-datepicker__month-select",
+        "DOB_yearSelect": ".react-datepicker__year-select",
+        "DOB_daySelect": ".react-datepicker__day--028",
+        "Subjects": "#subjectsContainer",
+        "subjectsDropdown": ".subjects-auto-complete__menu-list",
+        "hobbiesCheckbox1": "#hobbies-checkbox-1",
+        "hobbiesCheckbox2": "#hobbies-checkbox-2",
+        "hobbiesCheckbox3": "#hobbies-checkbox-3",
+        "uploadPictureBtn": "#uploadPicture",
+        "currentAddress": "#currentAddress",
+        "State": "#state",
+        "state_cityDropdown": ".css-26l3qy-menu",
+        "City": "#city",
+        "SubmitBtn": "#submit",
+        "submitForm_Header": ".modal-header",
+        "submitForm_closeBtn": "#closeLargeModal"
+    },
+    "Elements": {
+        "textBox": "#item-0",
+        "radioButton": "#item-2",
+        "Buttons": "#item-4",
+        "uploadAndDownload": "#item-7"
+    },
+        "TextBox": {
+            "userName": "#userName",
+            "userEmail": "#userEmail",
+            "currentAddress": "#currentAddress",
+            "permanentAddress": "#permanentAddress",
+            "submitBtn": "#submit"
+        },
+        "radioButton": {
+            "successText": ".text-success",
+            "yesRadioBtn": "#yesRadio",
+            "impressiveRadioBtn": "#impressiveRadio",
+            "noRadioBtn": "#noRadio"
+        },
+        "Buttons": {
+            "doubleClickMe": "#doubleClickBtn",
+            "doubleClickSuccess": "#doubleClickMessage",
+            "rightClickMe": "#rightClickBtn",
+            "rightClickSuccess": "#rightClickMessage"
+        },
+        "uploadAndDownload": {
+            "uploadFileBtn": "#uploadFile",
+            "downloadBtn": "#downloadButton"
+        }
+}

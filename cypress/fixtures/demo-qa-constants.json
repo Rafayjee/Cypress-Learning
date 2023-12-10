@@ -1,0 +1,42 @@
+{
+    "SideMenu": {
+        "Forms": "Forms",
+        "practiceForm": "Practice Form"
+    },
+    "practiceForm": {
+        "firstName": "Syed Abdul",
+        "lastName": "Rafay",
+        "userEmail": "Rafay@example.com",
+        "mobileNumber": "3341663449",
+        "DOB_month": "April",
+        "DOB_year": "2001",
+        "subjectMaths": "Maths",
+        "subjectComputer": "Computer Science",
+        "picture": "test.png",
+        "Address": "Saima Arabian Villas, Gadap Town",
+        "stateNCR": "NCR",
+        "stateDelhi": "Delhi",
+        "formHeaderText": "Thanks for submitting the form"
+    },
+    "textBox": {
+        "userName": "Syed Abdul Rafay",
+        "userEmail": "Rafay@example.com",
+        "currentAddress": "Defence PhaseII, House 5B",
+        "permanentAddress": "Saima Arabian Villas, Gadap Town"
+    },
+    "radioButton": {
+        "yesSuccess": "Yes",
+        "impressiveSuccess": "Impressive"
+    },
+    "Buttons": {
+        "doubleClickMessage": "You have done a double click",
+        "rightClickMessage": "You have done a right click"
+    },
+    "uploadAndDownload": {
+        "picture": "test.png"
+    },
+    "Waits": {
+        "twoSeconds": 2000,
+        "fourSeconds": 4000
+    }
+}
